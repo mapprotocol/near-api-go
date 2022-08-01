@@ -1,8 +1,5 @@
 # near-api-go
 
-[![Go Reference](https://pkg.go.dev/badge/github.com/mapprotocol/near-api-go.svg)](https://pkg.go.dev/github.com/mapprotocol/near-api-go)
-[![CI](https://github.com/mapprotocol/near-api-go/actions/workflows/lint.yml/badge.svg)](https://github.com/mapprotocol/near-api-go/actions/workflows/lint.yml)
-
 ### This library is forked from [eteu-technologies/near-api-go](https://github.com/eteu-technologies/near-api-go)
 
 **WARNING**: This library is still work in progress. While it covers about 90% of the use-cases, it does not have many batteries included.
@@ -101,6 +98,3 @@ func main() {
 }
 ```
 
-## License
-
-MIT
